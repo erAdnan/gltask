@@ -1,4 +1,4 @@
-# Secure Storage using watermelonDB
+# GL Assignment
 
 ## Running the application
 
